@@ -1,0 +1,14 @@
+build/
+.gradle/
+.kotlin/
+.idea/
+local.properties
+*.iml
+.DS_Store
+
+# Golden images are recorded by each benchmark run rather than committed: Compose Preview
+# Screenshot Testing writes 7,176 full-resolution PNGs, which would be gigabytes of history.
+**/src/test/snapshots/
+**/src/screenshotTestDebug/reference/
+
+results/raw/

@@ -1,0 +1,40 @@
+package com.example.scale.teams
+
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.padding
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.unit.dp
+import com.example.scale.designsystem.*
+
+@Composable
+public fun TeamsHabit9Screen() {
+    AppScreen(
+        title = "New habit",
+        tabs = listOf("Shared", "Nearby"),
+        selectedTab = 0,
+        selectedNav = 3,
+        showFab = false,
+    ) {
+
+        SectionHeader(title = "Details")
+        LabelledField(label = "Phone", value = "")
+        LabelledField(label = "Note", value = "")
+        LabelledField(label = "Full name", value = "")
+        LabelledField(label = "Address", value = "")
+        CheckRow(label = "Send me a copy", checked = true)
+        ChoiceRow(label = "Standard delivery", selected = true)
+        ChoiceRow(label = "Express delivery", selected = false)
+        AmountSlider(value = 0.5f)
+        PrimaryAction(label = "Submit", modifier = Modifier.padding(16.dp))
+
+    }
+}
+
+@Preview
+@Composable
+internal fun TeamsHabit9ScreenPreview() {
+    TeamsHabit9Screen()
+}

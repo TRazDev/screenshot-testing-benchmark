@@ -1,0 +1,31 @@
+[versions]
+agp = "9.3.2"
+kotlin = "2.3.0"
+ksp = "2.3.8"
+compose = "1.11.2"
+material3 = "1.4.0"
+compileSdk = "36"
+minSdk = "25"
+javaTarget = "21"
+mugshot = "3.4.2"
+paparazzi = "2.0.0-alpha05"
+screenshot = "0.0.1-alpha16"
+
+[libraries]
+compose-ui = { module = "androidx.compose.ui:ui-android", version.ref = "compose" }
+compose-material3 = { module = "androidx.compose.material3:material3-android", version.ref = "material3" }
+compose-material-icons = { module = "androidx.compose.material:material-icons-extended", version = "1.7.8" }
+compose-ui-tooling = { module = "androidx.compose.ui:ui-tooling", version.ref = "compose" }
+compose-ui-tooling-preview = { module = "androidx.compose.ui:ui-tooling-preview", version.ref = "compose" }
+compose-foundation = { module = "androidx.compose.foundation:foundation-android", version.ref = "compose" }
+
+testparameterinjector = { module = "com.google.testparameterinjector:test-parameter-injector", version = "1.22" }
+screenshot-validation-api = { module = "com.android.tools.screenshot:screenshot-validation-api", version.ref = "screenshot" }
+
+[plugins]
+android-library = { id = "com.android.library", version.ref = "agp" }
+kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
+mugshot = { id = "uk.co.fractalmotion.mugshot", version.ref = "mugshot" }
+paparazzi = { id = "app.cash.paparazzi", version.ref = "paparazzi" }
+screenshot = { id = "com.android.compose.screenshot", version.ref = "screenshot" }
