@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.android.library)
     alias(libs.plugins.kotlin.compose)
+    alias(libs.plugins.screenshot)
 }
 
 android {
@@ -12,6 +13,7 @@ android {
         targetCompatibility(libs.versions.javaTarget.get())
     }
     buildFeatures { compose = true }
+    experimentalProperties["android.experimental.enableScreenshotTest"] = true
 }
 
 androidComponents { beforeVariants(selector().withBuildType("release")) { it.enable = false } }
@@ -23,5 +25,7 @@ dependencies {
     implementation(libs.compose.material.icons)
     implementation(libs.compose.ui.tooling.preview)
     implementation(libs.compose.ui.tooling)
+    screenshotTestImplementation(libs.screenshot.validation.api)
+    screenshotTestImplementation(libs.compose.ui.tooling)
 
 }
