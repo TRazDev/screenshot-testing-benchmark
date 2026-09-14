@@ -8,8 +8,14 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import uk.co.fractalmotion.mugshot.annotations.Mugshot
+import uk.co.fractalmotion.mugshot.annotations.MugshotMatrix
+import uk.co.fractalmotion.mugshot.annotations.MugshotShrink
 
 /** Component catalogue: the same shape a real design system ships to document itself. */
+@Mugshot
+@MugshotMatrix
+@MugshotShrink
 @Preview
 @Composable
 internal fun ButtonCatalogPreview() {
@@ -23,6 +29,9 @@ internal fun ButtonCatalogPreview() {
     }
 }
 
+@Mugshot
+@MugshotMatrix
+@MugshotShrink
 @Preview
 @Composable
 internal fun CardCatalogPreview() {
@@ -38,6 +47,9 @@ internal fun CardCatalogPreview() {
     }
 }
 
+@Mugshot
+@MugshotMatrix
+@MugshotShrink
 @Preview
 @Composable
 internal fun SelectionCatalogPreview() {
@@ -51,6 +63,9 @@ internal fun SelectionCatalogPreview() {
     }
 }
 
+@Mugshot
+@MugshotMatrix
+@MugshotShrink
 @Preview
 @Composable
 internal fun ChipCatalogPreview() {
@@ -62,6 +77,9 @@ internal fun ChipCatalogPreview() {
     }
 }
 
+@Mugshot
+@MugshotMatrix
+@MugshotShrink
 @Preview
 @Composable
 internal fun FieldCatalogPreview() {
@@ -73,6 +91,9 @@ internal fun FieldCatalogPreview() {
     }
 }
 
+@Mugshot
+@MugshotMatrix
+@MugshotShrink
 @Preview
 @Composable
 internal fun ContentCatalogPreview() {

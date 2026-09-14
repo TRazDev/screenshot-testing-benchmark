@@ -7,6 +7,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import uk.co.fractalmotion.mugshot.annotations.Mugshot
+import uk.co.fractalmotion.mugshot.annotations.MugshotMatrix
 import com.example.scale.designsystem.*
 
 @Composable
@@ -33,6 +35,8 @@ public fun CheckoutRoute12Screen() {
     }
 }
 
+@Mugshot
+@MugshotMatrix
 @Preview
 @Composable
 internal fun CheckoutRoute12ScreenPreview() {
