@@ -1,0 +1,807 @@
+Starting a Gradle Daemon, 16 stopped Daemons could not be reused, use --status for details
+Reusing configuration cache.
+> Task :feature-billing:preBuild UP-TO-DATE
+> Task :feature-account:preBuild UP-TO-DATE
+> Task :feature-alerts:preBuild UP-TO-DATE
+> Task :designsystem:preBuild UP-TO-DATE
+> Task :feature-calendar:preBuild UP-TO-DATE
+> Task :designsystem:generateDebugAssets UP-TO-DATE
+> Task :feature-catalog:preBuild UP-TO-DATE
+> Task :feature-activity:preBuild UP-TO-DATE
+> Task :designsystem:preDebugUnitTestBuild UP-TO-DATE
+> Task :designsystem:preDebugBuild UP-TO-DATE
+> Task :feature-account:preDebugBuild UP-TO-DATE
+> Task :feature-alerts:preDebugBuild UP-TO-DATE
+> Task :feature-account:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-alerts:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-account:processDebugNavigationResources UP-TO-DATE
+> Task :designsystem:javaPreCompileDebug UP-TO-DATE
+> Task :designsystem:mergeDebugAssets UP-TO-DATE
+> Task :feature-account:generateDebugResources UP-TO-DATE
+> Task :designsystem:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :designsystem:processDebugNavigationResources UP-TO-DATE
+> Task :feature-account:javaPreCompileDebug UP-TO-DATE
+> Task :designsystem:generateDebugResources UP-TO-DATE
+> Task :feature-activity:preDebugBuild UP-TO-DATE
+> Task :feature-activity:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-account:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-activity:javaPreCompileDebug UP-TO-DATE
+> Task :feature-alerts:generateDebugResources UP-TO-DATE
+> Task :feature-activity:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-activity:generateDebugResources UP-TO-DATE
+> Task :feature-activity:processDebugNavigationResources UP-TO-DATE
+> Task :feature-billing:preDebugBuild UP-TO-DATE
+> Task :feature-alerts:processDebugNavigationResources UP-TO-DATE
+> Task :feature-alerts:javaPreCompileDebug UP-TO-DATE
+> Task :feature-alerts:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-billing:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-billing:generateDebugResources UP-TO-DATE
+> Task :feature-billing:processDebugNavigationResources UP-TO-DATE
+> Task :feature-calendar:preDebugBuild UP-TO-DATE
+> Task :feature-billing:javaPreCompileDebug UP-TO-DATE
+> Task :feature-billing:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-calendar:generateDebugResources UP-TO-DATE
+> Task :feature-calendar:processDebugNavigationResources UP-TO-DATE
+> Task :feature-calendar:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-calendar:javaPreCompileDebug UP-TO-DATE
+> Task :feature-catalog:preDebugBuild UP-TO-DATE
+> Task :feature-calendar:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-catalog:generateDebugResources UP-TO-DATE
+> Task :feature-catalog:processDebugNavigationResources UP-TO-DATE
+> Task :feature-catalog:javaPreCompileDebug UP-TO-DATE
+> Task :feature-alerts:packageDebugResources UP-TO-DATE
+> Task :feature-activity:packageDebugResources UP-TO-DATE
+> Task :feature-billing:packageDebugResources UP-TO-DATE
+> Task :feature-account:packageDebugResources UP-TO-DATE
+> Task :feature-calendar:packageDebugResources UP-TO-DATE
+> Task :designsystem:packageDebugResources UP-TO-DATE
+> Task :feature-catalog:packageDebugResources UP-TO-DATE
+> Task :feature-activity:parseDebugLocalResources UP-TO-DATE
+> Task :feature-calendar:parseDebugLocalResources UP-TO-DATE
+> Task :feature-billing:parseDebugLocalResources UP-TO-DATE
+> Task :feature-catalog:parseDebugLocalResources UP-TO-DATE
+> Task :feature-account:parseDebugLocalResources UP-TO-DATE
+> Task :designsystem:parseDebugLocalResources UP-TO-DATE
+> Task :feature-alerts:parseDebugLocalResources UP-TO-DATE
+> Task :feature-calendar:generateDebugRFile UP-TO-DATE
+> Task :feature-catalog:generateDebugRFile UP-TO-DATE
+> Task :designsystem:generateDebugRFile UP-TO-DATE
+> Task :feature-account:generateDebugRFile UP-TO-DATE
+> Task :feature-activity:generateDebugRFile UP-TO-DATE
+> Task :feature-billing:generateDebugRFile UP-TO-DATE
+> Task :feature-catalog:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-checkout:preBuild UP-TO-DATE
+> Task :feature-alerts:generateDebugRFile UP-TO-DATE
+> Task :designsystem:compileDebugKotlin UP-TO-DATE
+> Task :designsystem:compileDebugJavaWithJavac NO-SOURCE
+> Task :designsystem:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :designsystem:processDebugJavaRes UP-TO-DATE
+> Task :designsystem:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-account:compileDebugKotlin UP-TO-DATE
+> Task :feature-account:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-account:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-account:processDebugJavaRes UP-TO-DATE
+> Task :feature-account:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-calendar:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-catalog:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-alerts:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-account:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-billing:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-activity:preparePaparazziDebugResources UP-TO-DATE
+> Task :designsystem:preparePaparazziDebugResources UP-TO-DATE
+> Task :designsystem:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-activity:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-billing:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-account:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-catalog:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-alerts:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-calendar:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-checkout:preDebugBuild UP-TO-DATE
+> Task :feature-checkout:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-devices:preBuild UP-TO-DATE
+> Task :feature-catalog:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-checkout:processDebugNavigationResources UP-TO-DATE
+> Task :feature-checkout:generateDebugResources UP-TO-DATE
+> Task :feature-checkout:javaPreCompileDebug UP-TO-DATE
+> Task :feature-checkout:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-devices:preDebugBuild UP-TO-DATE
+> Task :feature-devices:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-devices:javaPreCompileDebug UP-TO-DATE
+> Task :feature-devices:generateDebugResources UP-TO-DATE
+> Task :feature-devices:processDebugNavigationResources UP-TO-DATE
+> Task :feature-discover:preBuild UP-TO-DATE
+> Task :feature-discover:preDebugBuild UP-TO-DATE
+> Task :feature-devices:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-discover:javaPreCompileDebug UP-TO-DATE
+> Task :feature-discover:generateDebugResources UP-TO-DATE
+> Task :feature-activity:compileDebugKotlin UP-TO-DATE
+> Task :feature-checkout:packageDebugResources UP-TO-DATE
+> Task :feature-devices:packageDebugResources UP-TO-DATE
+> Task :feature-checkout:parseDebugLocalResources UP-TO-DATE
+> Task :feature-activity:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-activity:processDebugJavaRes UP-TO-DATE
+> Task :feature-devices:parseDebugLocalResources UP-TO-DATE
+> Task :feature-activity:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-discover:packageDebugResources UP-TO-DATE
+> Task :feature-activity:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-discover:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-checkout:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-devices:generateDebugRFile UP-TO-DATE
+> Task :feature-finance:preBuild UP-TO-DATE
+> Task :feature-devices:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-finance:preDebugBuild UP-TO-DATE
+> Task :feature-discover:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-finance:javaPreCompileDebug UP-TO-DATE
+> Task :feature-devices:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-discover:processDebugNavigationResources UP-TO-DATE
+> Task :feature-finance:processDebugNavigationResources UP-TO-DATE
+> Task :feature-finance:generateDebugResources UP-TO-DATE
+> Task :feature-finance:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-discover:parseDebugLocalResources UP-TO-DATE
+> Task :feature-checkout:generateDebugRFile UP-TO-DATE
+> Task :feature-finance:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-fitness:preBuild UP-TO-DATE
+> Task :feature-fitness:preDebugBuild UP-TO-DATE
+> Task :feature-fitness:generateDebugResources UP-TO-DATE
+> Task :feature-checkout:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-discover:generateDebugRFile UP-TO-DATE
+> Task :feature-finance:packageDebugResources UP-TO-DATE
+> Task :feature-discover:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-fitness:processDebugNavigationResources UP-TO-DATE
+> Task :feature-alerts:compileDebugKotlin UP-TO-DATE
+> Task :feature-fitness:javaPreCompileDebug UP-TO-DATE
+> Task :feature-finance:parseDebugLocalResources UP-TO-DATE
+> Task :feature-discover:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-catalog:compileDebugKotlin UP-TO-DATE
+> Task :feature-calendar:compileDebugKotlin UP-TO-DATE
+> Task :feature-alerts:processDebugJavaRes UP-TO-DATE
+> Task :feature-fitness:packageDebugResources UP-TO-DATE
+> Task :feature-billing:compileDebugKotlin UP-TO-DATE
+> Task :feature-catalog:processDebugJavaRes UP-TO-DATE
+> Task :feature-alerts:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-calendar:processDebugJavaRes UP-TO-DATE
+> Task :feature-catalog:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-calendar:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-finance:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-fitness:parseDebugLocalResources UP-TO-DATE
+> Task :feature-alerts:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-billing:processDebugJavaRes UP-TO-DATE
+> Task :feature-alerts:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-finance:generateDebugRFile UP-TO-DATE
+> Task :feature-billing:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-catalog:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-catalog:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-calendar:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-calendar:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-billing:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-billing:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-finance:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-fitness:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-fitness:generateDebugRFile UP-TO-DATE
+> Task :feature-fitness:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-gallery:preBuild UP-TO-DATE
+> Task :feature-gallery:preDebugBuild UP-TO-DATE
+> Task :feature-gallery:generateDebugResources UP-TO-DATE
+> Task :feature-fitness:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-fitness:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-devices:compileDebugKotlin UP-TO-DATE
+> Task :feature-gallery:processDebugNavigationResources UP-TO-DATE
+> Task :feature-gallery:javaPreCompileDebug UP-TO-DATE
+> Task :feature-devices:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-devices:processDebugJavaRes UP-TO-DATE
+> Task :feature-devices:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-devices:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-gallery:packageDebugResources UP-TO-DATE
+> Task :feature-discover:compileDebugKotlin UP-TO-DATE
+> Task :feature-gallery:parseDebugLocalResources UP-TO-DATE
+> Task :feature-discover:processDebugJavaRes UP-TO-DATE
+> Task :feature-discover:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-discover:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-discover:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-gallery:generateDebugRFile UP-TO-DATE
+> Task :feature-gallery:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-finance:compileDebugKotlin UP-TO-DATE
+> Task :feature-fitness:compileDebugKotlin UP-TO-DATE
+> Task :feature-checkout:compileDebugKotlin UP-TO-DATE
+> Task :feature-calendar:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-activity:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :designsystem:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-alerts:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-account:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-billing:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-catalog:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-checkout:processDebugJavaRes UP-TO-DATE
+> Task :feature-finance:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-checkout:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-calendar:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :designsystem:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :designsystem:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-activity:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-account:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-account:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-activity:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-alerts:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-billing:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-catalog:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-billing:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-alerts:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-calendar:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-catalog:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-checkout:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-checkout:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-finance:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-gallery:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-gallery:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-finance:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-finance:processDebugJavaRes UP-TO-DATE
+> Task :feature-fitness:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-gallery:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-fitness:processDebugJavaRes UP-TO-DATE
+> Task :feature-inbox:preBuild UP-TO-DATE
+> Task :feature-inbox:preDebugBuild UP-TO-DATE
+> Task :feature-fitness:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-fitness:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-inbox:generateDebugResources UP-TO-DATE
+> Task :feature-devices:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-devices:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-devices:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-catalog:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :designsystem:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-activity:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-billing:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-account:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-alerts:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-calendar:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-inbox:packageDebugResources UP-TO-DATE
+> Task :feature-inbox:processDebugNavigationResources UP-TO-DATE
+> Task :feature-discover:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-inbox:javaPreCompileDebug UP-TO-DATE
+> Task :feature-inbox:parseDebugLocalResources UP-TO-DATE
+> Task :feature-discover:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-inbox:generateDebugRFile UP-TO-DATE
+> Task :feature-devices:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-gallery:compileDebugKotlin UP-TO-DATE
+> Task :feature-discover:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-discover:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-checkout:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-fitness:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-finance:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-gallery:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-inbox:compileDebugKotlin UP-TO-DATE
+> Task :feature-gallery:processDebugJavaRes UP-TO-DATE
+> Task :feature-fitness:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-finance:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-checkout:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-finance:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-fitness:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-gallery:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-gallery:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-fitness:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-inbox:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-finance:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-inbox:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-inbox:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-inbox:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-inbox:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-inbox:processDebugJavaRes UP-TO-DATE
+> Task :feature-gallery:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-gallery:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-gallery:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-gallery:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-checkout:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-inbox:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-library:preBuild UP-TO-DATE
+> Task :feature-library:preDebugBuild UP-TO-DATE
+> Task :feature-library:generateDebugResources UP-TO-DATE
+> Task :feature-inbox:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-library:packageDebugResources UP-TO-DATE
+> Task :feature-library:processDebugNavigationResources UP-TO-DATE
+> Task :feature-checkout:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-library:parseDebugLocalResources UP-TO-DATE
+> Task :feature-library:generateDebugRFile UP-TO-DATE
+> Task :feature-inbox:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-inbox:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-inbox:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-inbox:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-library:compileDebugKotlin UP-TO-DATE
+> Task :feature-library:javaPreCompileDebug UP-TO-DATE
+> Task :feature-library:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-library:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-library:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-library:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-library:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-library:processDebugJavaRes UP-TO-DATE
+> Task :feature-library:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-library:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-library:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-library:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-library:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-library:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+
+> Task :designsystem:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/designsystem/build/reports/paparazzi/debug/index.html
+
+> Task :designsystem:verifyPaparazziDebug
+> Task :feature-media:preBuild UP-TO-DATE
+> Task :feature-media:preDebugBuild UP-TO-DATE
+> Task :feature-media:generateDebugResources UP-TO-DATE
+> Task :feature-media:packageDebugResources UP-TO-DATE
+> Task :feature-media:processDebugNavigationResources UP-TO-DATE
+> Task :feature-media:parseDebugLocalResources UP-TO-DATE
+> Task :feature-media:generateDebugRFile UP-TO-DATE
+> Task :feature-media:compileDebugKotlin UP-TO-DATE
+> Task :feature-media:javaPreCompileDebug UP-TO-DATE
+> Task :feature-media:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-media:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-media:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-media:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-media:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-media:processDebugJavaRes UP-TO-DATE
+> Task :feature-media:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-media:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-media:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-media:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-media:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-media:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+
+> Task :feature-account:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-account/build/reports/paparazzi/debug/index.html
+
+> Task :feature-account:verifyPaparazziDebug
+> Task :feature-messages:preBuild UP-TO-DATE
+> Task :feature-messages:preDebugBuild UP-TO-DATE
+> Task :feature-messages:generateDebugResources UP-TO-DATE
+> Task :feature-messages:packageDebugResources UP-TO-DATE
+> Task :feature-messages:processDebugNavigationResources UP-TO-DATE
+> Task :feature-messages:parseDebugLocalResources UP-TO-DATE
+> Task :feature-messages:generateDebugRFile UP-TO-DATE
+> Task :feature-messages:compileDebugKotlin UP-TO-DATE
+> Task :feature-messages:javaPreCompileDebug UP-TO-DATE
+> Task :feature-messages:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-messages:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-messages:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-messages:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-messages:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-messages:processDebugJavaRes UP-TO-DATE
+> Task :feature-messages:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-messages:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-messages:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-messages:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-messages:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-messages:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-alerts:testDebugUnitTest
+> Task :feature-calendar:testDebugUnitTest
+> Task :feature-catalog:testDebugUnitTest
+> Task :feature-devices:testDebugUnitTest
+> Task :feature-activity:testDebugUnitTest
+> Task :feature-billing:testDebugUnitTest
+> Task :feature-discover:testDebugUnitTest
+> Task :feature-fitness:testDebugUnitTest
+> Task :feature-finance:testDebugUnitTest
+> Task :feature-gallery:testDebugUnitTest
+> Task :feature-checkout:testDebugUnitTest
+> Task :feature-inbox:testDebugUnitTest
+> Task :feature-library:testDebugUnitTest
+
+> Task :feature-alerts:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-alerts/build/reports/paparazzi/debug/index.html
+
+> Task :feature-alerts:verifyPaparazziDebug
+> Task :feature-notes:preBuild UP-TO-DATE
+> Task :feature-notes:preDebugBuild UP-TO-DATE
+> Task :feature-notes:generateDebugResources UP-TO-DATE
+> Task :feature-notes:packageDebugResources UP-TO-DATE
+> Task :feature-notes:processDebugNavigationResources UP-TO-DATE
+> Task :feature-notes:parseDebugLocalResources UP-TO-DATE
+> Task :feature-notes:generateDebugRFile UP-TO-DATE
+> Task :feature-notes:compileDebugKotlin UP-TO-DATE
+> Task :feature-notes:javaPreCompileDebug UP-TO-DATE
+> Task :feature-notes:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-notes:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-notes:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-notes:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-notes:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-notes:processDebugJavaRes UP-TO-DATE
+> Task :feature-notes:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-notes:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-notes:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-notes:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-notes:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-notes:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+
+> Task :feature-discover:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-discover/build/reports/paparazzi/debug/index.html
+
+> Task :feature-discover:verifyPaparazziDebug
+> Task :feature-onboarding:preBuild UP-TO-DATE
+> Task :feature-onboarding:preDebugBuild UP-TO-DATE
+> Task :feature-onboarding:generateDebugResources UP-TO-DATE
+> Task :feature-onboarding:packageDebugResources UP-TO-DATE
+> Task :feature-onboarding:processDebugNavigationResources UP-TO-DATE
+> Task :feature-onboarding:parseDebugLocalResources UP-TO-DATE
+> Task :feature-onboarding:generateDebugRFile UP-TO-DATE
+> Task :feature-onboarding:compileDebugKotlin UP-TO-DATE
+> Task :feature-onboarding:javaPreCompileDebug UP-TO-DATE
+> Task :feature-onboarding:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-onboarding:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-onboarding:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-onboarding:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-onboarding:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-onboarding:processDebugJavaRes UP-TO-DATE
+> Task :feature-onboarding:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-onboarding:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-onboarding:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-onboarding:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-onboarding:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-onboarding:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+
+> Task :feature-library:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-library/build/reports/paparazzi/debug/index.html
+
+> Task :feature-library:verifyPaparazziDebug
+> Task :feature-orders:preBuild UP-TO-DATE
+> Task :feature-orders:preDebugBuild UP-TO-DATE
+> Task :feature-orders:generateDebugResources UP-TO-DATE
+> Task :feature-orders:packageDebugResources UP-TO-DATE
+> Task :feature-orders:processDebugNavigationResources UP-TO-DATE
+> Task :feature-orders:parseDebugLocalResources UP-TO-DATE
+> Task :feature-orders:generateDebugRFile UP-TO-DATE
+> Task :feature-orders:compileDebugKotlin UP-TO-DATE
+> Task :feature-orders:javaPreCompileDebug UP-TO-DATE
+> Task :feature-orders:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-orders:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-orders:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-orders:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-orders:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-orders:processDebugJavaRes UP-TO-DATE
+> Task :feature-orders:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-orders:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-orders:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-orders:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-orders:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-orders:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+
+> Task :feature-catalog:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-catalog/build/reports/paparazzi/debug/index.html
+
+> Task :feature-catalog:verifyPaparazziDebug
+> Task :feature-profile:preBuild UP-TO-DATE
+> Task :feature-profile:preDebugBuild UP-TO-DATE
+> Task :feature-profile:generateDebugResources UP-TO-DATE
+> Task :feature-profile:packageDebugResources UP-TO-DATE
+> Task :feature-profile:processDebugNavigationResources UP-TO-DATE
+> Task :feature-profile:parseDebugLocalResources UP-TO-DATE
+> Task :feature-profile:generateDebugRFile UP-TO-DATE
+> Task :feature-profile:compileDebugKotlin UP-TO-DATE
+> Task :feature-profile:javaPreCompileDebug UP-TO-DATE
+> Task :feature-profile:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-profile:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-profile:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-profile:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-profile:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-profile:processDebugJavaRes UP-TO-DATE
+> Task :feature-profile:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-profile:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-profile:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-profile:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-profile:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-profile:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+
+> Task :feature-fitness:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-fitness/build/reports/paparazzi/debug/index.html
+
+> Task :feature-fitness:verifyPaparazziDebug
+> Task :feature-reports:preBuild UP-TO-DATE
+> Task :feature-reports:preDebugBuild UP-TO-DATE
+> Task :feature-reports:generateDebugResources UP-TO-DATE
+> Task :feature-reports:packageDebugResources UP-TO-DATE
+> Task :feature-reports:processDebugNavigationResources UP-TO-DATE
+> Task :feature-reports:parseDebugLocalResources UP-TO-DATE
+> Task :feature-reports:generateDebugRFile UP-TO-DATE
+> Task :feature-reports:compileDebugKotlin UP-TO-DATE
+> Task :feature-reports:javaPreCompileDebug UP-TO-DATE
+> Task :feature-reports:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-reports:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-reports:preDebugUnitTestBuild UP-TO-DATE
+
+> Task :feature-calendar:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-calendar/build/reports/paparazzi/debug/index.html
+
+> Task :feature-calendar:verifyPaparazziDebug
+> Task :feature-reports:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-reports:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-reports:processDebugJavaRes UP-TO-DATE
+> Task :feature-reports:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-reports:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-search:preBuild UP-TO-DATE
+> Task :feature-search:preDebugBuild UP-TO-DATE
+> Task :feature-search:generateDebugResources UP-TO-DATE
+> Task :feature-search:packageDebugResources UP-TO-DATE
+> Task :feature-search:processDebugNavigationResources UP-TO-DATE
+> Task :feature-search:parseDebugLocalResources UP-TO-DATE
+> Task :feature-search:generateDebugRFile UP-TO-DATE
+> Task :feature-reports:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-reports:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-reports:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-search:compileDebugKotlin UP-TO-DATE
+> Task :feature-reports:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-search:javaPreCompileDebug UP-TO-DATE
+> Task :feature-search:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-search:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-search:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-search:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-search:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-search:processDebugJavaRes UP-TO-DATE
+> Task :feature-search:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-search:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-search:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-search:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-search:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-search:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+
+> Task :feature-gallery:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-gallery/build/reports/paparazzi/debug/index.html
+
+> Task :feature-gallery:verifyPaparazziDebug
+> Task :feature-settings:preBuild UP-TO-DATE
+> Task :feature-settings:preDebugBuild UP-TO-DATE
+> Task :feature-settings:generateDebugResources UP-TO-DATE
+> Task :feature-settings:packageDebugResources UP-TO-DATE
+> Task :feature-settings:processDebugNavigationResources UP-TO-DATE
+> Task :feature-settings:parseDebugLocalResources UP-TO-DATE
+> Task :feature-settings:generateDebugRFile UP-TO-DATE
+> Task :feature-settings:compileDebugKotlin UP-TO-DATE
+> Task :feature-settings:javaPreCompileDebug UP-TO-DATE
+> Task :feature-settings:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-settings:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-settings:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-settings:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-settings:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-settings:processDebugJavaRes UP-TO-DATE
+> Task :feature-settings:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-settings:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-settings:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-settings:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-settings:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-settings:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+
+> Task :feature-devices:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-devices/build/reports/paparazzi/debug/index.html
+
+> Task :feature-devices:verifyPaparazziDebug
+> Task :feature-social:preBuild UP-TO-DATE
+> Task :feature-social:preDebugBuild UP-TO-DATE
+> Task :feature-social:generateDebugResources UP-TO-DATE
+> Task :feature-social:packageDebugResources UP-TO-DATE
+> Task :feature-social:processDebugNavigationResources UP-TO-DATE
+> Task :feature-social:parseDebugLocalResources UP-TO-DATE
+> Task :feature-social:generateDebugRFile UP-TO-DATE
+> Task :feature-social:compileDebugKotlin UP-TO-DATE
+> Task :feature-social:javaPreCompileDebug UP-TO-DATE
+> Task :feature-social:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-social:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-social:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-social:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-social:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-social:processDebugJavaRes UP-TO-DATE
+> Task :feature-social:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-social:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-social:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-social:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-social:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-social:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+
+> Task :feature-billing:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-billing/build/reports/paparazzi/debug/index.html
+
+> Task :feature-billing:verifyPaparazziDebug
+> Task :feature-storage:preBuild UP-TO-DATE
+> Task :feature-storage:preDebugBuild UP-TO-DATE
+> Task :feature-storage:generateDebugResources UP-TO-DATE
+> Task :feature-storage:packageDebugResources UP-TO-DATE
+> Task :feature-storage:processDebugNavigationResources UP-TO-DATE
+> Task :feature-storage:parseDebugLocalResources UP-TO-DATE
+> Task :feature-storage:generateDebugRFile UP-TO-DATE
+> Task :feature-storage:compileDebugKotlin UP-TO-DATE
+> Task :feature-storage:javaPreCompileDebug UP-TO-DATE
+> Task :feature-storage:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-storage:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-storage:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-storage:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-storage:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-storage:processDebugJavaRes UP-TO-DATE
+> Task :feature-storage:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-storage:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-storage:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-storage:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-storage:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-storage:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+
+> Task :feature-media:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-media/build/reports/paparazzi/debug/index.html
+
+> Task :feature-media:verifyPaparazziDebug
+> Task :feature-support:preBuild UP-TO-DATE
+> Task :feature-support:preDebugBuild UP-TO-DATE
+> Task :feature-support:generateDebugResources UP-TO-DATE
+> Task :feature-support:packageDebugResources UP-TO-DATE
+> Task :feature-support:processDebugNavigationResources UP-TO-DATE
+> Task :feature-support:parseDebugLocalResources UP-TO-DATE
+> Task :feature-support:generateDebugRFile UP-TO-DATE
+> Task :feature-support:compileDebugKotlin UP-TO-DATE
+> Task :feature-support:javaPreCompileDebug UP-TO-DATE
+> Task :feature-support:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-support:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-support:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-support:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-support:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-support:processDebugJavaRes UP-TO-DATE
+> Task :feature-support:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-support:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-support:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-support:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-support:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-support:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+
+> Task :feature-inbox:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-inbox/build/reports/paparazzi/debug/index.html
+
+> Task :feature-inbox:verifyPaparazziDebug
+> Task :feature-tasks:preBuild UP-TO-DATE
+> Task :feature-tasks:preDebugBuild UP-TO-DATE
+> Task :feature-tasks:generateDebugResources UP-TO-DATE
+> Task :feature-tasks:packageDebugResources UP-TO-DATE
+> Task :feature-tasks:processDebugNavigationResources UP-TO-DATE
+> Task :feature-tasks:parseDebugLocalResources UP-TO-DATE
+> Task :feature-tasks:generateDebugRFile UP-TO-DATE
+> Task :feature-tasks:compileDebugKotlin UP-TO-DATE
+> Task :feature-tasks:javaPreCompileDebug UP-TO-DATE
+> Task :feature-tasks:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-tasks:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-tasks:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-tasks:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-tasks:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-tasks:processDebugJavaRes UP-TO-DATE
+> Task :feature-tasks:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-tasks:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-tasks:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-tasks:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-tasks:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-tasks:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+
+> Task :feature-activity:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-activity/build/reports/paparazzi/debug/index.html
+
+> Task :feature-activity:verifyPaparazziDebug
+> Task :feature-teams:preBuild UP-TO-DATE
+> Task :feature-teams:preDebugBuild UP-TO-DATE
+> Task :feature-teams:generateDebugResources UP-TO-DATE
+> Task :feature-teams:packageDebugResources UP-TO-DATE
+> Task :feature-teams:processDebugNavigationResources UP-TO-DATE
+> Task :feature-teams:parseDebugLocalResources UP-TO-DATE
+> Task :feature-teams:generateDebugRFile UP-TO-DATE
+> Task :feature-teams:compileDebugKotlin UP-TO-DATE
+> Task :feature-teams:javaPreCompileDebug UP-TO-DATE
+> Task :feature-teams:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-teams:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-teams:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-teams:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-teams:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-teams:processDebugJavaRes UP-TO-DATE
+> Task :feature-teams:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-teams:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-teams:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-teams:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-teams:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-teams:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+
+> Task :feature-finance:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-finance/build/reports/paparazzi/debug/index.html
+
+> Task :feature-finance:verifyPaparazziDebug
+> Task :feature-travel:preBuild UP-TO-DATE
+> Task :feature-travel:preDebugBuild UP-TO-DATE
+> Task :feature-travel:generateDebugResources UP-TO-DATE
+> Task :feature-travel:packageDebugResources UP-TO-DATE
+> Task :feature-travel:processDebugNavigationResources UP-TO-DATE
+> Task :feature-travel:parseDebugLocalResources UP-TO-DATE
+> Task :feature-travel:generateDebugRFile UP-TO-DATE
+> Task :feature-travel:compileDebugKotlin UP-TO-DATE
+> Task :feature-travel:javaPreCompileDebug UP-TO-DATE
+> Task :feature-travel:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-travel:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-travel:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature-travel:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :feature-travel:preparePaparazziDebugResources UP-TO-DATE
+> Task :feature-travel:processDebugJavaRes UP-TO-DATE
+> Task :feature-travel:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-travel:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :feature-travel:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :feature-travel:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :feature-travel:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature-travel:transformDebugUnitTestClassesWithAsm UP-TO-DATE
+> Task :feature-messages:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-messages/build/reports/paparazzi/debug/index.html
+
+> Task :feature-messages:verifyPaparazziDebug
+
+> Task :feature-checkout:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-checkout/build/reports/paparazzi/debug/index.html
+
+> Task :feature-checkout:verifyPaparazziDebug
+
+> Task :feature-onboarding:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-onboarding/build/reports/paparazzi/debug/index.html
+
+> Task :feature-onboarding:verifyPaparazziDebug
+> Task :feature-notes:testDebugUnitTest
+> Task :feature-orders:testDebugUnitTest
+> Task :feature-profile:testDebugUnitTest
+
+> Task :feature-reports:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-reports/build/reports/paparazzi/debug/index.html
+
+> Task :feature-reports:verifyPaparazziDebug
+> Task :feature-search:testDebugUnitTest
+
+> Task :feature-notes:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-notes/build/reports/paparazzi/debug/index.html
+
+> Task :feature-notes:verifyPaparazziDebug
+> Task :feature-settings:testDebugUnitTest
+> Task :feature-social:testDebugUnitTest
+
+> Task :feature-settings:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-settings/build/reports/paparazzi/debug/index.html
+
+> Task :feature-settings:verifyPaparazziDebug
+
+> Task :feature-tasks:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-tasks/build/reports/paparazzi/debug/index.html
+
+> Task :feature-tasks:verifyPaparazziDebug
+
+> Task :feature-profile:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-profile/build/reports/paparazzi/debug/index.html
+
+> Task :feature-profile:verifyPaparazziDebug
+
+> Task :feature-support:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-support/build/reports/paparazzi/debug/index.html
+
+> Task :feature-support:verifyPaparazziDebug
+> Task :feature-storage:testDebugUnitTest
+
+> Task :feature-orders:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-orders/build/reports/paparazzi/debug/index.html
+
+> Task :feature-orders:verifyPaparazziDebug
+
+> Task :feature-search:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-search/build/reports/paparazzi/debug/index.html
+
+> Task :feature-search:verifyPaparazziDebug
+
+> Task :feature-social:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-social/build/reports/paparazzi/debug/index.html
+
+> Task :feature-social:verifyPaparazziDebug
+
+> Task :feature-storage:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-storage/build/reports/paparazzi/debug/index.html
+
+> Task :feature-storage:verifyPaparazziDebug
+
+> Task :feature-teams:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-teams/build/reports/paparazzi/debug/index.html
+
+> Task :feature-teams:verifyPaparazziDebug
+
+> Task :feature-travel:testDebugUnitTest
+See the Paparazzi report at: file://~/AndroidStudioProjects/screenshot-testing-benchmark/runs/paparazzi/feature-travel/build/reports/paparazzi/debug/index.html
+
+> Task :feature-travel:verifyPaparazziDebug
+
+BUILD SUCCESSFUL in 1m 27s
+511 actionable tasks: 30 executed, 481 up-to-date
+Configuration cache entry reused.

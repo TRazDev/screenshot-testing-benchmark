@@ -1,0 +1,4 @@
+tool,phase,attempt,wall_seconds,exit_code,tests,failures,test_seconds,images,image_bytes
+mugshot,record,1,60.5,0,7176,0,650.5,7176,75276072
+mugshot-downscale-1,record,1,133.7,0,7176,0,1591.1,7176,236534164
+paparazzi,record,1,104.5,0,7176,0,1154.0,7176,279012784

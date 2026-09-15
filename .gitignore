@@ -11,5 +11,4 @@ local.properties
 **/src/test/snapshots/
 **/src/screenshotTestDebug/reference/
 
-results/raw/
 runs/

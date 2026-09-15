@@ -1,0 +1,13 @@
+tool,max_workers,phase,attempt,wall_seconds,exit_code,tests,failures,test_seconds,images,image_bytes
+mugshot,default,record,1,62.4,0,7176,0,723.3,7176,75276072
+mugshot-downscale-1,default,record,1,150.1,0,7176,0,1856.5,7176,236534164
+paparazzi,default,record,1,106.8,0,7176,0,1214.7,7176,279012784
+mugshot,default,verify,1,62.4,0,7176,0,655.5,7176,75276072
+mugshot-downscale-1,default,verify,1,149.3,0,7176,0,1783.8,7176,236534164
+paparazzi,default,verify,1,92.6,0,7176,0,1044.3,7176,279012784
+mugshot-downscale-1,default,verify,2,147.3,0,7176,0,1817.5,7176,236534164
+paparazzi,default,verify,2,88.6,0,7176,0,1039.0,7176,279012784
+mugshot,default,verify,2,58.4,0,7176,0,671.6,7176,75276072
+paparazzi,default,verify,3,88.6,0,7176,0,1037.2,7176,279012784
+mugshot,default,verify,3,58.4,0,7176,0,669.7,7176,75276072
+mugshot-downscale-1,default,verify,3,153.4,0,7176,0,1886.6,7176,236534164

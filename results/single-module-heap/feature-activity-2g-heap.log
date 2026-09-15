@@ -1,0 +1,65 @@
+Starting a Gradle Daemon, 2 stopped Daemons could not be reused, use --status for details
+Calculating task graph as configuration cache cannot be reused because Gradle property 'android.compose.screenshot.maxHeapSize' has changed.
+
+> Configure project :designsystem
+WARNING: The option setting 'android.experimental.enableScreenshotTest=true' is experimental.
+The current default is 'false'.
+Add android.sync.suppressAgpWarnings=UNSUPPORTED_PROJECT_OPTION_USE to the gradle.properties file to suppress this warning.
+
+> Task :feature-activity:generateDebugAssets UP-TO-DATE
+> Task :feature-activity:generateDebugScreenshotTestAssets UP-TO-DATE
+> Task :designsystem:generateDebugAssets UP-TO-DATE
+> Task :feature-activity:preBuild UP-TO-DATE
+> Task :designsystem:preBuild UP-TO-DATE
+> Task :designsystem:preDebugBuild UP-TO-DATE
+> Task :feature-activity:preDebugScreenshotTestBuild UP-TO-DATE
+> Task :feature-activity:preDebugBuild UP-TO-DATE
+> Task :designsystem:extractDeepLinksDebug UP-TO-DATE
+> Task :designsystem:javaPreCompileDebug UP-TO-DATE
+> Task :feature-activity:generateDebugResources UP-TO-DATE
+> Task :feature-activity:mapDebugSourceSetPaths UP-TO-DATE
+> Task :feature-activity:mapDebugScreenshotTestSourceSetPaths UP-TO-DATE
+> Task :feature-activity:writeDebugAarMetadata UP-TO-DATE
+> Task :feature-activity:javaPreCompileDebug UP-TO-DATE
+> Task :designsystem:writeDebugAarMetadata UP-TO-DATE
+> Task :designsystem:generateDebugResources UP-TO-DATE
+> Task :designsystem:processDebugNavigationResources UP-TO-DATE
+> Task :designsystem:mapDebugSourceSetPaths UP-TO-DATE
+> Task :feature-activity:generateDebugScreenshotTestResources UP-TO-DATE
+> Task :feature-activity:processDebugNavigationResources UP-TO-DATE
+> Task :feature-activity:extractDeepLinksDebug UP-TO-DATE
+> Task :designsystem:processDebugManifest UP-TO-DATE
+> Task :feature-activity:javaPreCompileDebugScreenshotTest UP-TO-DATE
+> Task :feature-activity:processDebugManifest UP-TO-DATE
+> Task :designsystem:mergeDebugAssets UP-TO-DATE
+> Task :feature-activity:mergeDebugAssets UP-TO-DATE
+> Task :designsystem:packageDebugResources UP-TO-DATE
+> Task :feature-activity:packageDebugResources UP-TO-DATE
+> Task :designsystem:compileDebugLibraryResources UP-TO-DATE
+> Task :feature-activity:compileDebugLibraryResources UP-TO-DATE
+> Task :feature-activity:parseDebugLocalResources UP-TO-DATE
+> Task :designsystem:parseDebugLocalResources UP-TO-DATE
+> Task :designsystem:generateDebugRFile UP-TO-DATE
+> Task :feature-activity:generateDebugRFile UP-TO-DATE
+> Task :feature-activity:mergeDebugScreenshotTestAssets UP-TO-DATE
+> Task :feature-activity:checkDebugScreenshotTestAarMetadata UP-TO-DATE
+> Task :feature-activity:mergeDebugScreenshotTestResources UP-TO-DATE
+> Task :designsystem:compileDebugKotlin UP-TO-DATE
+> Task :feature-activity:mergeDebugScreenshotTestManifest UP-TO-DATE
+> Task :designsystem:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-activity:processDebugScreenshotTestManifest UP-TO-DATE
+> Task :designsystem:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :designsystem:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-activity:compileDebugKotlin UP-TO-DATE
+> Task :feature-activity:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature-activity:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-activity:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature-activity:processDebugScreenshotTestResources UP-TO-DATE
+> Task :feature-activity:packageDebugScreenshotTestForScreenshotTest UP-TO-DATE
+> Task :feature-activity:compileDebugScreenshotTestKotlin UP-TO-DATE
+> Task :feature-activity:compileDebugScreenshotTestJavaWithJavac NO-SOURCE
+> Task :feature-activity:updateDebugScreenshotTest
+
+BUILD SUCCESSFUL in 49s
+42 actionable tasks: 1 executed, 41 up-to-date
+Configuration cache entry stored.

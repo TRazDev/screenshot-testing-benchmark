@@ -950,7 +950,11 @@ def main():
     kotlin.code.style=official
     """
     if TOOL == "compose-preview":
-        properties += "android.experimental.enableScreenshotTest=true\n"
+        properties = properties.rstrip(" ")
+        properties += "    android.experimental.enableScreenshotTest=true\n"
+        # With the plugin's default heap, rendering runs out of memory on this app. 2g is the smallest
+        # heap tried that records every screenshot; see results/ for what the default did.
+        properties += "    android.compose.screenshot.maxHeapSize=2g\n"
     w(os.path.join(ROOT, "gradle.properties"), properties)
 
     tool_plugins = {
